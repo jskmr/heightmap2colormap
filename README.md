@@ -1,9 +1,11 @@
 heightmap2colormap
 ==================
 
-Application for converting coloring heightmaps based on their height.
+Application for oloring heightmaps based on their height.
 
 How to use
 ----------
 
-**main.exe [file_name.bmp]**
+**main.exe *heigth_map_path* [-noise]**
+
+(NOTE: -noise adds a little noise to the colormap)
