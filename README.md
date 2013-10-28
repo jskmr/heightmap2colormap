@@ -1,7 +1,7 @@
 heightmap2colormap
 ==================
 
-Application for oloring heightmaps based on their height.
+Application for coloring heightmaps based on their height.
 
 How to use
 ----------
