@@ -1,2 +1,2 @@
-python main.py heightmap.bmp -detail
+python main.py heightmap.bmp
 pause
