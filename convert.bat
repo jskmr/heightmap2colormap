@@ -2,7 +2,6 @@
 color 0A
 title heightmap2colormap
 echo Converting...
-python main.py heightmap.bmp
-cls
+h2c.exe heightmap.bmp
 echo Done!
 pause
